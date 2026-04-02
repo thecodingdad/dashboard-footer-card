@@ -5,6 +5,10 @@ A sticky navigation footer card for Home Assistant dashboards with route/submenu
 [![hacs_badge](https://img.shields.io/badge/HACS-Default-41BDF5.svg)](https://github.com/hacs/integration)
 [![GitHub Release](https://img.shields.io/github/v/release/thecodingdad/dashboard-footer-card)](https://github.com/thecodingdad/dashboard-footer-card/releases)
 
+## Screenshot
+
+![Dashboard Footer Card](screenshots/screenshot.png)
+
 ## Features
 
 - Navigation routes with icons and labels
@@ -20,7 +24,7 @@ A sticky navigation footer card for Home Assistant dashboards with route/submenu
 
 ## Prerequisites
 
-- Home Assistant 2024.1.0 or newer
+- Home Assistant 2026.3.0 or newer
 - HACS (recommended for installation)
 
 ## Installation
