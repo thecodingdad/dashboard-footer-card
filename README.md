@@ -13,14 +13,17 @@ A sticky navigation footer card for Home Assistant dashboards with route/submenu
 
 - Navigation routes with icons and labels
 - Sub-route menus (popup menus per main route)
+- Highlight active route
 - Breadcrumb display for active sub-routes
 - Dynamic badge content and colors (Jinja2 templates)
 - Icon and label visibility toggles
-- Custom tap/hold/double-tap/swipe actions per route
+- Custom tap/hold/double-tap/swipe-up actions per route
 - Floating mode on mobile/desktop with customizable breakpoint
 - Glassmorphism blur effect
 - Sidebar awareness and offset control
+- Full UI configuration (no exclusive YAML features)
 - EN/DE multilanguage support
+- Tip: use my [mirror-card](https://github.com/thecodingdad/mirror-card) to show the footer on each view
 
 ## Prerequisites
 
